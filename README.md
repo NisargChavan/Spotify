@@ -24,7 +24,7 @@ This Flutter frontend relies on a **backend server** for:
 - User authentication(will be intergrated soon)
 - Playlists and likes(will be intergrated soon)
 
-> ⚠️ The backend code (e.g., Spring Boot or Node.js) is not part of this repo and will be added later.
+> ⚠️ The backend code (SpringBoot) is not part of this repo and will be added later.
 
 ---
 
